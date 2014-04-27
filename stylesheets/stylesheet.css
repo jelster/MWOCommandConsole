@@ -72,7 +72,7 @@ header h1 {
   font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif; font-weight: 900;
   letter-spacing: -1px;
   font-size: 48px;
-  color: #303030;
+  color: #C6C6C6;
   line-height: 1.2;
 }
 
@@ -92,10 +92,16 @@ header h2 {
 .inner {
   width: 620px;
   margin: 0 auto;
+background-color: #000000;
 }
 
 #container .inner img {
   max-width: 100%;
+}
+
+#main_content {
+	padding: 3px 5px;
+margin: 2px 1px;
 }
 
 #downloads {
