@@ -1,5 +1,4 @@
 ---
-title: MWO Command Console App Homepage
 layout: default
 ---
 
