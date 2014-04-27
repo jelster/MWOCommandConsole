@@ -1,5 +1,4 @@
 ---
-markdown: kramdown
 title: MWO Command Console App Homepage
 layout: default
 ---
