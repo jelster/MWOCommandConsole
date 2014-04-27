@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: base
+title: Command Console for MechWarrior Online - by Liquid Electron
 ---
 
 #MWO Command Console
