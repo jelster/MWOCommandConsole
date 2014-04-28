@@ -323,6 +323,13 @@ footer {
   color: #aaa;
 }
 
+footer a img {
+	max-width: 64px;
+	max-height: 64px;
+	margin: 0 4px 0 4px;
+	display: inline-block;
+}
+
 footer a {
   color: #666;
 }
