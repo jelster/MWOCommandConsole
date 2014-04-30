@@ -2,7 +2,10 @@
 layout: base
 title: Command Console for MechWarrior Online - by Liquid Electron
 ---
-![Windows store logo](/images/WindowsStore_badge_en_English_Black_med_258x67.png)
+
+<a href="http://apps.microsoft.com/windows/app/mwo-command-console/4b818727-4836-49e6-9daa-2f618b91ebbe">
+<img src="/images/WindowsStore_badge_en_English_Black_med_258x67.png" alt="Windows Store Logo" />
+</a>
 
 #Don't get left behind on the battlefield! 
 
