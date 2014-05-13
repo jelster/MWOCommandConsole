@@ -42,6 +42,7 @@ Life is tough in the Inner Sphere. Make it easier on yourself with the MWO Comma
 * Initial release for Windows Store
 
 ----------
+
 ##App Requirements:
 1. the MWO Command Console app requires an API key from (mwo.smurfy-net.de) to download loadout data.
 2. This key can come from any user, and can be used to "show off" your catalog to friends. 
