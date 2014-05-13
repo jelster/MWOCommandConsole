@@ -14,7 +14,7 @@ Life is tough in the Inner Sphere. Make it easier on yourself with the MWO Comma
 
 
 <p>
-<img src="/images/DropDeck-Filling-Out-screenshot.jpg" style="max-width: 480px;" /> 
+<img src="/images/dropdeck-filling-out-screenshot.jpg" style="max-width: 480px;" /> 
 </p>
 
 
