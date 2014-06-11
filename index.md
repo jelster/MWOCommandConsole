@@ -8,6 +8,7 @@ title: Command Console for MechWarrior Online - by Liquid Electron
 <a href="http://apps.microsoft.com/windows/app/mwo-command-console/4b818727-4836-49e6-9daa-2f618b91ebbe">
 <img src="/images/WindowsStore_badge_en_English_Black_med_258x67.png" alt="Windows Store Logo" />
 </a>
+
 #Don't get left behind on the battlefield! 
 
 Life is tough in the Inner Sphere. Make it easier on yourself with the MWO Command Console - an app that aims to fill in the gaps between the official MWO game features and the information *you* need to dominate your opponents.
@@ -19,6 +20,7 @@ Life is tough in the Inner Sphere. Make it easier on yourself with the MWO Comma
 
 
 ##Key Features:
+* Create your company's TO&E (table of organization & equipment)
 * View multiple designs at once, side-by-side
 * See MWO art in its full-sized glory
 * Integrates with [SmurfyLab](http://mwo.smurfy-net.de) so you don't have to re-enter any data
@@ -30,7 +32,16 @@ Life is tough in the Inner Sphere. Make it easier on yourself with the MWO Comma
 
 
 ##version history:
+<h3 id="0950">0.9.5.0</h3>
+
+* NEW! In the MechBay, tag loads by selecting one or more loads then the `Tag` option. In the text box, enter one or more words to describe the selected loads 
+* Color-coded equipment and upgrade displays in the MechBay make visual identification even easier
+* Updated UI in DropDeck, Hub, and MechBay screens
+* Bug fixes and other miscellaneous improvements
+
+<h3 id="0941">0.9.4.1</h3>
 <h3 id="0940">0.9.4.0</h3>
+
 * Introducing the DropShip Command section of the Command Console! 
 * Drag mechs out of your bay to put them into lances.
 * Tap or click the handle in the lower-right corner of a lances' element to view a loadout summary
@@ -38,7 +49,8 @@ Life is tough in the Inner Sphere. Make it easier on yourself with the MWO Comma
 * Drag pilots onto mechs to assign them to their mounts.
 * Accessible by clicking `DropShip Command` on the Hub, plot the demise of your enemies against the stunning backdrop of MWO concept artwork. 
 
-###0.9.3.0
+<h3 id="0930">0.9.3.0</h3>
+
 * Initial release for Windows Store
 
 ----------
