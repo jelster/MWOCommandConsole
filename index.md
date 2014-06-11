@@ -2,7 +2,7 @@
 layout: base
 title: Command Console for MechWarrior Online - by Liquid Electron
 ---
-###5/12/2014: Update 0.9.4.0 submitted to the Windows Store for certification. Once available, your app will automatically update to the latest version.
+###6/11/2014 Command Console 0.9.5 is now available in the store!
 
 ##Read more about latest new features in [this thread](http://mwomercs.com/forums/topic/157113-mwo-command-console-app/).
 <a href="http://apps.microsoft.com/windows/app/mwo-command-console/4b818727-4836-49e6-9daa-2f618b91ebbe">
@@ -20,7 +20,8 @@ Life is tough in the Inner Sphere. Make it easier on yourself with the MWO Comma
 
 
 ##Key Features:
-* Create your company's TO&E (table of organization & equipment)
+* Create your company's TO&E (table of organization & equipment) in the DropDeck
+* Add tag keywords to your design catalog
 * View multiple designs at once, side-by-side
 * See MWO art in its full-sized glory
 * Integrates with [SmurfyLab](http://mwo.smurfy-net.de) so you don't have to re-enter any data
@@ -40,6 +41,9 @@ Life is tough in the Inner Sphere. Make it easier on yourself with the MWO Comma
 * Bug fixes and other miscellaneous improvements
 
 <h3 id="0941">0.9.4.1</h3>
+
+*no changes - point release updating manifest*
+
 <h3 id="0940">0.9.4.0</h3>
 
 * Introducing the DropShip Command section of the Command Console! 
