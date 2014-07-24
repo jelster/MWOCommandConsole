@@ -2,7 +2,7 @@
 layout: base
 title: Command Console for MechWarrior Online - by Liquid Electron
 ---
-###6/11/2014 Command Console 0.9.5 is now available in the store!
+###7/24/2014 Command Console 0.9.6 is now available in the store!
 
 ##Read more about latest new features in [this thread](http://mwomercs.com/forums/topic/157113-mwo-command-console-app/).
 <a href="http://apps.microsoft.com/windows/app/mwo-command-console/4b818727-4836-49e6-9daa-2f618b91ebbe">
